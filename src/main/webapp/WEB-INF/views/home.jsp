@@ -14,16 +14,8 @@
                 <button id="helloBtn" class="btn btn-secondary">Hello</button>
 
 
-        <div id ="usersTable"  style="display: none">
-        <table>
-        <tr><th> Name: </th> <th> Username: </th> <th> status:</th> <th> Ph No: </th> Email: <th> </th> </tr>
-
-
-
-        </tr>
-        </table>
-
-        </div>
+        <div id ="displayUsersTable"  >
+         </div>
 
 
         <script
